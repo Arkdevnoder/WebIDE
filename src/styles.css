@@ -25,7 +25,7 @@ ol {
 	overflow-y: auto;
 }
 
-.area {
+#worker_area {
 	overflow: auto;
 	resize: none;
 	height: 575px;
