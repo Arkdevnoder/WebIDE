@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title></title>
+		<meta charset="utf-8">
+		<title>Light IDE - edit your *nix files</title>
+		<meta name="viewport" content="width=device-width; initial-scale=1; user-scalable=no">
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 
@@ -13,8 +15,8 @@
 				</ol>
 			</div>
 
-			<form id="handler" method="POST">
-				<textarea class="area" name="data">
+			<form id="handler" action="./" method="POST">
+				<textarea id="worker_area" name="data">
 				</textarea>
 			</form>
 		</div>
