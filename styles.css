@@ -12,7 +12,7 @@ ol {
 .area {
 	overflow: auto;
 	resize: none;
-	height: 70%;
+	height: 540px;
 	width: 90%;
 	outline: none;
 	border-width: 3px;
