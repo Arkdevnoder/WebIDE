@@ -13,7 +13,8 @@ ol {
 	overflow: auto;
 	resize: none;
 	height: 540px;
-	width: 980px;
+	max-width: 1024px;
+	width: 100%;
 	outline: none;
 	border-width: 3px;
 	border-radius: 10px;
