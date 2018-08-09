@@ -2,6 +2,7 @@ body {
 	background-color: rgba(255,219,176, 0.9);
 	font-family: sans-serif;
 	text-align: center;
+	margin: 0px;
 }
 
 ol {
@@ -14,6 +15,7 @@ ol {
 	resize: none;
 	height: 540px;
 	width: 100%;
+	max-width: 1024px;
 	outline: none;
 	border-width: 3px;
 	border-radius: 10px;
