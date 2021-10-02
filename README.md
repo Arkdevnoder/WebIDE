@@ -1,2 +1,2 @@
 # WebIDE
-JS client
+HTML, CSS, JS client
